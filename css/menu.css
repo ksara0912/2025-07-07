@@ -1,0 +1,26 @@
+.menu-section {
+  max-width: 400px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+h2 {
+  color: #8B4513;
+  border-bottom: 2px solid #ccc;
+  margin-top: 1em;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  padding: 0.5em 0;
+  border-bottom: 1px dotted #ccc;
+}
+
+.limited {
+  color: #c0392b;
+  font-weight: bold;
+}
